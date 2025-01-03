@@ -1,0 +1,5872 @@
+[
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-4478",
+    "Score": 0.983254
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-31",
+    "Score": 0.962248087
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-3940",
+    "Score": 0.950487137
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-215",
+    "Score": 0.874827385
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-630",
+    "Score": 0.873979747
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1323",
+    "Score": 0.857280016
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-3201",
+    "Score": 0.847773194
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-3130",
+    "Score": 0.845117331
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-519d",
+    "Score": 0.83598876
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-558",
+    "Score": 0.829040647
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-126",
+    "Score": 0.820235312
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-3658",
+    "Score": 0.815775573
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-449b",
+    "Score": 0.813505769
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-4701",
+    "Score": 0.81173712
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-4480",
+    "Score": 0.796603262
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-3662",
+    "Score": 0.783721149
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-142",
+    "Score": 0.783269227
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-3648",
+    "Score": 0.782950461
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-3663",
+    "Score": 0.777945876
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-3682",
+    "Score": 0.774420023
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-26a-1",
+    "Score": 0.769166946
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-548a",
+    "Score": 0.761657178
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-4469",
+    "Score": 0.761405706
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-33a",
+    "Score": 0.760443211
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-548c",
+    "Score": 0.760264993
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-4772",
+    "Score": 0.758147717
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-3915",
+    "Score": 0.756851614
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-376c",
+    "Score": 0.743293285
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-933",
+    "Score": 0.741426289
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-324",
+    "Score": 0.739025593
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-4782",
+    "Score": 0.738728523
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-28",
+    "Score": 0.731572688
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-20b",
+    "Score": 0.730141521
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-497",
+    "Score": 0.729029179
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-802",
+    "Score": 0.726892948
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-141",
+    "Score": 0.723051429
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-629",
+    "Score": 0.721747458
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-657",
+    "Score": 0.717809975
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-432",
+    "Score": 0.716655254
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-608",
+    "Score": 0.706638873
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-520a",
+    "Score": 0.703209698
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-557",
+    "Score": 0.701666355
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-378e",
+    "Score": 0.69906503
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1237",
+    "Score": 0.694764912
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-4443",
+    "Score": 0.688290477
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-2861",
+    "Score": 0.686278641
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-676",
+    "Score": 0.682750762
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-217",
+    "Score": 0.680230319
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-562",
+    "Score": 0.676143348
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-543",
+    "Score": 0.675993443
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-545",
+    "Score": 0.675288379
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-26b",
+    "Score": 0.672083974
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1909",
+    "Score": 0.668735206
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-493",
+    "Score": 0.668166995
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-218-1",
+    "Score": 0.666089356
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-149",
+    "Score": 0.662695646
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1273c",
+    "Score": 0.661305726
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-3611",
+    "Score": 0.658439159
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-5586",
+    "Score": 0.657804012
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-4496",
+    "Score": 0.656413257
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-758",
+    "Score": 0.653844297
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-517",
+    "Score": 0.653686345
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-134",
+    "Score": 0.650917232
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-320d",
+    "Score": 0.650745332
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-555",
+    "Score": 0.648780823
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-9500",
+    "Score": 0.646783113
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-320c",
+    "Score": 0.645293951
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-518c",
+    "Score": 0.644538999
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-526b",
+    "Score": 0.644138336
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-520e",
+    "Score": 0.643868089
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-431",
+    "Score": 0.637154758
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-374a",
+    "Score": 0.635613382
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-664b",
+    "Score": 0.634513557
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-22",
+    "Score": 0.631926119
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-550a-3",
+    "Score": 0.631094754
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-598",
+    "Score": 0.626642704
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-656",
+    "Score": 0.621044397
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-4505",
+    "Score": 0.617381692
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-378i",
+    "Score": 0.615015447
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-105",
+    "Score": 0.614330292
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-501",
+    "Score": 0.612204909
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-127",
+    "Score": 0.611204624
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-662",
+    "Score": 0.610507965
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-518d",
+    "Score": 0.610340357
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-451a",
+    "Score": 0.608794212
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-3074",
+    "Score": 0.606580675
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-4775",
+    "Score": 0.604332268
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-4793",
+    "Score": 0.603107691
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-29c",
+    "Score": 0.600751042
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1268b",
+    "Score": 0.599639952
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-4717",
+    "Score": 0.597273707
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-29b",
+    "Score": 0.595820487
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-769",
+    "Score": 0.594333231
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-3908",
+    "Score": 0.593685389
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-3976",
+    "Score": 0.592806458
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-4634",
+    "Score": 0.592783391
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-378a",
+    "Score": 0.591801524
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-944",
+    "Score": 0.587709963
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-16-2",
+    "Score": 0.584880531
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-6836",
+    "Score": 0.583609462
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-643",
+    "Score": 0.581103742
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-921",
+    "Score": 0.580395162
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-450b",
+    "Score": 0.578786075
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-638",
+    "Score": 0.578629792
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-147a",
+    "Score": 0.576903701
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1228",
+    "Score": 0.572761714
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-4489",
+    "Score": 0.569250166
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-18a",
+    "Score": 0.567888737
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-585",
+    "Score": 0.567477405
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-3686",
+    "Score": 0.566976607
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-15a",
+    "Score": 0.564862072
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-520g",
+    "Score": 0.5605582
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1538",
+    "Score": 0.556484699
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-6068",
+    "Score": 0.556401849
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-589",
+    "Score": 0.551116049
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-4447",
+    "Score": 0.547943473
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-3622a",
+    "Score": 0.54769218
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-6133",
+    "Score": 0.547435164
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-191",
+    "Score": 0.546944141
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-224",
+    "Score": 0.546276391
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-206",
+    "Score": 0.545003831
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1324",
+    "Score": 0.54420799
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-573",
+    "Score": 0.543642581
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-16",
+    "Score": 0.542185485
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-525",
+    "Score": 0.542165577
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-30d",
+    "Score": 0.53644824
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-let-7e",
+    "Score": 0.535762608
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1225",
+    "Score": 0.535223663
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-328",
+    "Score": 0.533313751
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-193a",
+    "Score": 0.532515049
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-600",
+    "Score": 0.531675756
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1246",
+    "Score": 0.529596329
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1185",
+    "Score": 0.529149175
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1281",
+    "Score": 0.524807215
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-3158",
+    "Score": 0.52220279
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-337",
+    "Score": 0.520705998
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-378h",
+    "Score": 0.51983583
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-542",
+    "Score": 0.518785775
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1288",
+    "Score": 0.516716421
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-29b-1",
+    "Score": 0.513482869
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1307",
+    "Score": 0.511010349
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-3945",
+    "Score": 0.510859191
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-302a",
+    "Score": 0.509399951
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-605",
+    "Score": 0.504914761
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-491",
+    "Score": 0.503246009
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-216a",
+    "Score": 0.49944672
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-548an",
+    "Score": 0.498910636
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-544a",
+    "Score": 0.49838376
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-520h",
+    "Score": 0.496366024
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-718",
+    "Score": 0.495935589
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-4697",
+    "Score": 0.495307565
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-2682",
+    "Score": 0.494399399
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-200b",
+    "Score": 0.492013872
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-4306",
+    "Score": 0.490500599
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-3185",
+    "Score": 0.490111917
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-487b",
+    "Score": 0.489418507
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-4282",
+    "Score": 0.489134461
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-660",
+    "Score": 0.488402069
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1227",
+    "Score": 0.488246053
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-let-7f-1",
+    "Score": 0.487627596
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-412",
+    "Score": 0.486508757
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-507",
+    "Score": 0.484661222
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-2278",
+    "Score": 0.484449208
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-323b",
+    "Score": 0.483993471
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-92a-2",
+    "Score": 0.48178485
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-129",
+    "Score": 0.481149346
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-3175",
+    "Score": 0.478626668
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-449c",
+    "Score": 0.477982521
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-877",
+    "Score": 0.477427691
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-624",
+    "Score": 0.475966603
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-6886",
+    "Score": 0.472603828
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-423",
+    "Score": 0.471457332
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-196b",
+    "Score": 0.46966058
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-181a-2",
+    "Score": 0.469227403
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1268a",
+    "Score": 0.467576772
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1304",
+    "Score": 0.466784924
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-181c",
+    "Score": 0.466592014
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-190a",
+    "Score": 0.463334978
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-3928",
+    "Score": 0.462633193
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1179",
+    "Score": 0.461899698
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-654",
+    "Score": 0.458900064
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-770",
+    "Score": 0.457021773
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-7107",
+    "Score": 0.456890225
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-892b",
+    "Score": 0.453877181
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-3162",
+    "Score": 0.452438653
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-711",
+    "Score": 0.451797545
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-934",
+    "Score": 0.450821042
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-370",
+    "Score": 0.450441033
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-640",
+    "Score": 0.450001121
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-760",
+    "Score": 0.448874742
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-7",
+    "Score": 0.444949657
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-454",
+    "Score": 0.444079787
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-761",
+    "Score": 0.44200632
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-122",
+    "Score": 0.441647828
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-5010",
+    "Score": 0.441514134
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-330",
+    "Score": 0.441272974
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-325",
+    "Score": 0.438773543
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-519e",
+    "Score": 0.438351184
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-218-2",
+    "Score": 0.436983436
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-199a",
+    "Score": 0.436006755
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-570",
+    "Score": 0.433213025
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-3127",
+    "Score": 0.430096447
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-383",
+    "Score": 0.427844971
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-664a",
+    "Score": 0.427055657
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-let-7a",
+    "Score": 0.426423401
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-655",
+    "Score": 0.424254149
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-548l",
+    "Score": 0.423875451
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-4721",
+    "Score": 0.423814416
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-665",
+    "Score": 0.42380777
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-485",
+    "Score": 0.420996666
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-3620",
+    "Score": 0.420953542
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-595",
+    "Score": 0.419999391
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-508",
+    "Score": 0.419256181
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1233",
+    "Score": 0.416839957
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1266",
+    "Score": 0.416600436
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-184",
+    "Score": 0.414473563
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-610",
+    "Score": 0.413068682
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-92b",
+    "Score": 0.412407726
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-939",
+    "Score": 0.411298305
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-4429",
+    "Score": 0.406679839
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-128-2",
+    "Score": 0.401976109
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-204",
+    "Score": 0.400905848
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1207",
+    "Score": 0.399867803
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-411",
+    "Score": 0.394624382
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-4739",
+    "Score": 0.394310325
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1286",
+    "Score": 0.392458439
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-606",
+    "Score": 0.391996503
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1271",
+    "Score": 0.39100799
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-409",
+    "Score": 0.38816312
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1229",
+    "Score": 0.384423882
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1224",
+    "Score": 0.383699626
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1248",
+    "Score": 0.382014811
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1295b",
+    "Score": 0.382001638
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-130b",
+    "Score": 0.380114526
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-let-7i",
+    "Score": 0.378274381
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1972",
+    "Score": 0.377334446
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-4423",
+    "Score": 0.37684378
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-513c",
+    "Score": 0.37628293
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-125b-2",
+    "Score": 0.373641402
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-4736",
+    "Score": 0.372237772
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-520f",
+    "Score": 0.371974409
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-30a",
+    "Score": 0.371936202
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-421",
+    "Score": 0.371528745
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1277",
+    "Score": 0.371146798
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-3196",
+    "Score": 0.367988586
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-6780b",
+    "Score": 0.367268056
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1287",
+    "Score": 0.366924316
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-301b",
+    "Score": 0.36563012
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-616",
+    "Score": 0.365373611
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-892a",
+    "Score": 0.364080131
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1976",
+    "Score": 0.363855183
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-137",
+    "Score": 0.363035887
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-148b",
+    "Score": 0.362270504
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1261",
+    "Score": 0.357804328
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-765",
+    "Score": 0.357697517
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-6126",
+    "Score": 0.354445696
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-4262",
+    "Score": 0.35165754
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1267",
+    "Score": 0.349128306
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-639",
+    "Score": 0.34864521
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-539",
+    "Score": 0.336774677
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1827",
+    "Score": 0.336468667
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-4257",
+    "Score": 0.334398627
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-154",
+    "Score": 0.329022825
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-4268",
+    "Score": 0.32808426
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-513a",
+    "Score": 0.326883048
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-632",
+    "Score": 0.326402992
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-210",
+    "Score": 0.324129432
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1469",
+    "Score": 0.319075972
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-6799",
+    "Score": 0.318523854
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-517b",
+    "Score": 0.315835029
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-410",
+    "Score": 0.309913516
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-520b",
+    "Score": 0.306856453
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-509",
+    "Score": 0.303527206
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-15b",
+    "Score": 0.299548894
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1231",
+    "Score": 0.299400628
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-578",
+    "Score": 0.298107415
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1183",
+    "Score": 0.2927742
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-550b-2",
+    "Score": 0.288641632
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-433",
+    "Score": 0.285994112
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-18b",
+    "Score": 0.285369962
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-3913",
+    "Score": 0.285343945
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-642a",
+    "Score": 0.285292327
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-181b-2",
+    "Score": 0.283707529
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-4281",
+    "Score": 0.280685157
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1202",
+    "Score": 0.279038697
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-150",
+    "Score": 0.278846234
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-611",
+    "Score": 0.275042266
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-let-7d",
+    "Score": 0.273883522
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-153",
+    "Score": 0.273822516
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-182",
+    "Score": 0.273566872
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-4487",
+    "Score": 0.271837711
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-3909",
+    "Score": 0.269854277
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-5193",
+    "Score": 0.269854277
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-99b",
+    "Score": 0.269583374
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-626",
+    "Score": 0.269089907
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-4458",
+    "Score": 0.26906845
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-517c",
+    "Score": 0.265623242
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-9",
+    "Score": 0.265361637
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-4286",
+    "Score": 0.263438374
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1244",
+    "Score": 0.259351373
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-27b",
+    "Score": 0.25664112
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-4530",
+    "Score": 0.254315108
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-10a",
+    "Score": 0.254212648
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1226",
+    "Score": 0.25329867
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-125b",
+    "Score": 0.25316751
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-888",
+    "Score": 0.252058566
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-4284",
+    "Score": 0.247229084
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-138-2",
+    "Score": 0.246907905
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-424",
+    "Score": 0.24166435
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-499b",
+    "Score": 0.240326852
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-103b",
+    "Score": 0.23831363
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-130a",
+    "Score": 0.238071054
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1247",
+    "Score": 0.237198308
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-516a",
+    "Score": 0.236852303
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1301",
+    "Score": 0.234121397
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-659",
+    "Score": 0.233620003
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-16-1",
+    "Score": 0.231468171
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-212",
+    "Score": 0.23133637
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-6069",
+    "Score": 0.228167325
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-4644",
+    "Score": 0.226790622
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-4488",
+    "Score": 0.226390958
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-24-2",
+    "Score": 0.225419357
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1245b",
+    "Score": 0.225064442
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-26a",
+    "Score": 0.223390311
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-502",
+    "Score": 0.222455353
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-7-1",
+    "Score": 0.220281243
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-23c",
+    "Score": 0.218655512
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-151a",
+    "Score": 0.216948256
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-138",
+    "Score": 0.216804728
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-326",
+    "Score": 0.214086682
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-let-7f",
+    "Score": 0.212973058
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-25",
+    "Score": 0.212304592
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-511",
+    "Score": 0.211755842
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-451b",
+    "Score": 0.210518941
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-548d",
+    "Score": 0.21015358
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-379",
+    "Score": 0.209986344
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-518e",
+    "Score": 0.209909424
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-34b",
+    "Score": 0.209795251
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-107",
+    "Score": 0.209555045
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-518b",
+    "Score": 0.209497079
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-129-2",
+    "Score": 0.209244773
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1284",
+    "Score": 0.207201317
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-450a",
+    "Score": 0.206898361
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-181b",
+    "Score": 0.205386341
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-222",
+    "Score": 0.204608619
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-298",
+    "Score": 0.204158708
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-124-3",
+    "Score": 0.204040721
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1260a",
+    "Score": 0.203768983
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-3960",
+    "Score": 0.20248878
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1468",
+    "Score": 0.201637492
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-548f",
+    "Score": 0.201477364
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-620",
+    "Score": 0.201297641
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-532",
+    "Score": 0.199991286
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-4723",
+    "Score": 0.198820353
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-422a",
+    "Score": 0.198428065
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-302f",
+    "Score": 0.19803758
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-3144",
+    "Score": 0.19575569
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-596",
+    "Score": 0.195436046
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-3117",
+    "Score": 0.194844529
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-762",
+    "Score": 0.193737581
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-526a",
+    "Score": 0.19300127
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-498",
+    "Score": 0.192933291
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-634",
+    "Score": 0.192886174
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-5004",
+    "Score": 0.192308724
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-186",
+    "Score": 0.192166403
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-425",
+    "Score": 0.191662908
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-575",
+    "Score": 0.190561935
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1258",
+    "Score": 0.188721776
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-4298",
+    "Score": 0.187904596
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-23b",
+    "Score": 0.186703563
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-548t",
+    "Score": 0.18586579
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-631",
+    "Score": 0.185599685
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-132",
+    "Score": 0.184636012
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-6826",
+    "Score": 0.183843762
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-381",
+    "Score": 0.183716223
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-345",
+    "Score": 0.182585329
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-3151",
+    "Score": 0.182079434
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1915",
+    "Score": 0.181528166
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-362",
+    "Score": 0.18103525
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-519b",
+    "Score": 0.180910215
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-6861",
+    "Score": 0.18090862
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-6875",
+    "Score": 0.179812744
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1299",
+    "Score": 0.179671079
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-3619",
+    "Score": 0.17962873
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1291",
+    "Score": 0.179628715
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-627",
+    "Score": 0.179625228
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-3148",
+    "Score": 0.179138348
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-885",
+    "Score": 0.178751841
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-147b",
+    "Score": 0.178240761
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-4661",
+    "Score": 0.178117782
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-133a",
+    "Score": 0.177697867
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-873",
+    "Score": 0.176999494
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-3163",
+    "Score": 0.17623806
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1825",
+    "Score": 0.174934715
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-155",
+    "Score": 0.174291
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-645",
+    "Score": 0.174001709
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-20a",
+    "Score": 0.171311662
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-510",
+    "Score": 0.170523465
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-296",
+    "Score": 0.170403585
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-4516",
+    "Score": 0.169287175
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-let-7f-2",
+    "Score": 0.169096947
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-103a-2",
+    "Score": 0.168765426
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-3646",
+    "Score": 0.168232247
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-500a",
+    "Score": 0.167545363
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-7-2",
+    "Score": 0.167280197
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-4650",
+    "Score": 0.165932149
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-128-1",
+    "Score": 0.164594471
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-519a",
+    "Score": 0.164335355
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-335",
+    "Score": 0.163827464
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-3149",
+    "Score": 0.162383318
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-450a-1",
+    "Score": 0.161366194
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-641",
+    "Score": 0.161226138
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-146a",
+    "Score": 0.161065504
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-613",
+    "Score": 0.159779862
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-516b",
+    "Score": 0.159714237
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-181d",
+    "Score": 0.158697635
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-3664",
+    "Score": 0.157923415
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-3666",
+    "Score": 0.157438755
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-646",
+    "Score": 0.15514195
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-650",
+    "Score": 0.154020876
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-500b",
+    "Score": 0.153739408
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-937",
+    "Score": 0.153478548
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-522",
+    "Score": 0.153458178
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-214",
+    "Score": 0.152057141
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-375",
+    "Score": 0.150850654
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-4466",
+    "Score": 0.149773151
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-320b",
+    "Score": 0.149696112
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1303",
+    "Score": 0.149159521
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-4476",
+    "Score": 0.149042904
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-571",
+    "Score": 0.147537291
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-3120",
+    "Score": 0.147537291
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-935",
+    "Score": 0.144589812
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1292",
+    "Score": 0.144589812
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-3654",
+    "Score": 0.144589812
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-938",
+    "Score": 0.144208685
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-4291",
+    "Score": 0.143804684
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-490",
+    "Score": 0.143419966
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1343",
+    "Score": 0.143297762
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-488",
+    "Score": 0.142354056
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-520c",
+    "Score": 0.141694248
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-378g",
+    "Score": 0.141262695
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-4778",
+    "Score": 0.13956745
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-30c",
+    "Score": 0.139383957
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-329",
+    "Score": 0.139383957
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-382",
+    "Score": 0.138895556
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1283",
+    "Score": 0.134222835
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-3171",
+    "Score": 0.133987471
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-579",
+    "Score": 0.13305518
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-194",
+    "Score": 0.130342901
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1282",
+    "Score": 0.129983634
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-99a",
+    "Score": 0.126432016
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-196a",
+    "Score": 0.126187295
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-621",
+    "Score": 0.125374809
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1270",
+    "Score": 0.1246401
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-637",
+    "Score": 0.123604305
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-4728",
+    "Score": 0.123604305
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1206",
+    "Score": 0.123604305
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-766",
+    "Score": 0.123604298
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-3131",
+    "Score": 0.123604298
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-4293",
+    "Score": 0.123012088
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-3126",
+    "Score": 0.122087933
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-3614",
+    "Score": 0.122087933
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1276",
+    "Score": 0.121313132
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-377",
+    "Score": 0.119646952
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1249",
+    "Score": 0.119319215
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-26a-2",
+    "Score": 0.119318739
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-19b",
+    "Score": 0.118893065
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-24",
+    "Score": 0.113804057
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-124",
+    "Score": 0.110115632
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-5582",
+    "Score": 0.10968937
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-658",
+    "Score": 0.109351322
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-429",
+    "Score": 0.105694294
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-188",
+    "Score": 0.104842231
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-10b",
+    "Score": 0.103121787
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-1236",
+    "Score": 0.103121787
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-221",
+    "Score": 0.101928018
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-193b",
+    "Score": 0.101551123
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-583",
+    "Score": 0.100966901
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-346",
+    "Score": 0.100839652
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-3200",
+    "Score": 0.100700289
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-320e",
+    "Score": 0.099530682
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-3613",
+    "Score": 0.094752222
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-365b",
+    "Score": 0.093202792
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-205",
+    "Score": 0.086343698
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-581",
+    "Score": 0.085613854
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-100",
+    "Score": 0.085447401
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-541",
+    "Score": 0.085447393
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-505",
+    "Score": 0.08386974
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-139",
+    "Score": 0.083746158
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-569",
+    "Score": 0.076154858
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-3182",
+    "Score": 0.074315116
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-568",
+    "Score": 0.070414506
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-376a-2",
+    "Score": 0.056312568
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-450a-2",
+    "Score": 0.051247902
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-675",
+    "Score": 0.051096253
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-195",
+    "Score": 0.041439809
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-365a",
+    "Score": 0.029587813
+  },
+  {
+    "disease": "Lung Neoplasms",
+    "miRNA": "hsa-mir-548",
+    "Score": 0.017834
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1266",
+    "Score": 0.954683
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-147a",
+    "Score": 0.9227705
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-20b",
+    "Score": 0.89650631
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-3117",
+    "Score": 0.892085969
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4505",
+    "Score": 0.882532537
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-548a",
+    "Score": 0.873373926
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1207",
+    "Score": 0.869839311
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-605",
+    "Score": 0.868742645
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-191",
+    "Score": 0.864381313
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-9",
+    "Score": 0.84570545
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4661",
+    "Score": 0.839396298
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-499b",
+    "Score": 0.829808116
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1909",
+    "Score": 0.806835473
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-638",
+    "Score": 0.793183565
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-10a",
+    "Score": 0.786124945
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-939",
+    "Score": 0.781569779
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-608",
+    "Score": 0.773580551
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-491",
+    "Score": 0.771462262
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-411",
+    "Score": 0.771229029
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-190a",
+    "Score": 0.771101832
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-545",
+    "Score": 0.771096647
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1284",
+    "Score": 0.765146732
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-513c",
+    "Score": 0.763404608
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-665",
+    "Score": 0.752281308
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-217",
+    "Score": 0.749282181
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-2278",
+    "Score": 0.74522686
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-3915",
+    "Score": 0.74391073
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-518e",
+    "Score": 0.743247211
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-378h",
+    "Score": 0.73917979
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4458",
+    "Score": 0.736569464
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-let-7a",
+    "Score": 0.735100806
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4650",
+    "Score": 0.73346746
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1179",
+    "Score": 0.732208073
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-323b",
+    "Score": 0.730686009
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1268b",
+    "Score": 0.729299307
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-517",
+    "Score": 0.728810549
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-22",
+    "Score": 0.728670299
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-150",
+    "Score": 0.727325857
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-637",
+    "Score": 0.726406217
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4429",
+    "Score": 0.725321591
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-128-2",
+    "Score": 0.724763334
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-517c",
+    "Score": 0.723775744
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-513a",
+    "Score": 0.723386407
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4782",
+    "Score": 0.720905542
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-125b",
+    "Score": 0.719158232
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-640",
+    "Score": 0.718158066
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-548c",
+    "Score": 0.714497507
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-548l",
+    "Score": 0.714443326
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-30d",
+    "Score": 0.712226629
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-3163",
+    "Score": 0.710570574
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1287",
+    "Score": 0.707272351
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1247",
+    "Score": 0.707210124
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-450a-2",
+    "Score": 0.705949306
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-508",
+    "Score": 0.704007089
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4306",
+    "Score": 0.701053679
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-3613",
+    "Score": 0.700242639
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-16",
+    "Score": 0.698863804
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-296",
+    "Score": 0.69869256
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-182",
+    "Score": 0.697717726
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-2682",
+    "Score": 0.696830392
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-324",
+    "Score": 0.696186364
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-934",
+    "Score": 0.694646895
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-502",
+    "Score": 0.693504572
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-5010",
+    "Score": 0.692456961
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-3130",
+    "Score": 0.69127667
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-490",
+    "Score": 0.690546095
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4423",
+    "Score": 0.689620376
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-99b",
+    "Score": 0.689165413
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-520f",
+    "Score": 0.688951552
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4480",
+    "Score": 0.6864838
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-711",
+    "Score": 0.685499549
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-141",
+    "Score": 0.685029507
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-517b",
+    "Score": 0.680211604
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-210",
+    "Score": 0.679512858
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4739",
+    "Score": 0.675261974
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-181c",
+    "Score": 0.673033595
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-3175",
+    "Score": 0.672267079
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-320d",
+    "Score": 0.672144949
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-449c",
+    "Score": 0.671840847
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-3648",
+    "Score": 0.671498954
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1229",
+    "Score": 0.669438839
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-199a",
+    "Score": 0.669020474
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-6126",
+    "Score": 0.668127775
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-3686",
+    "Score": 0.667555749
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4530",
+    "Score": 0.666905522
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-30c",
+    "Score": 0.666870534
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-3622a",
+    "Score": 0.664985955
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-let-7f-1",
+    "Score": 0.664725244
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-99a",
+    "Score": 0.664471149
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-128-1",
+    "Score": 0.664163411
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-550a-3",
+    "Score": 0.662005067
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-26a-1",
+    "Score": 0.661433816
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-3682",
+    "Score": 0.66087538
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-497",
+    "Score": 0.65832597
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1237",
+    "Score": 0.65691936
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4443",
+    "Score": 0.655723631
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-181a-2",
+    "Score": 0.655438125
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-944",
+    "Score": 0.654503524
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-212",
+    "Score": 0.654149354
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-657",
+    "Score": 0.653401375
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-505",
+    "Score": 0.651245594
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1286",
+    "Score": 0.651131392
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-770",
+    "Score": 0.648784697
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1468",
+    "Score": 0.647700369
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-610",
+    "Score": 0.647142947
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-520a",
+    "Score": 0.646499693
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4793",
+    "Score": 0.646285772
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1185",
+    "Score": 0.644444287
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-376c",
+    "Score": 0.644440234
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-26b",
+    "Score": 0.642916441
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-421",
+    "Score": 0.642890811
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-148b",
+    "Score": 0.642339408
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-933",
+    "Score": 0.641299844
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-3646",
+    "Score": 0.640125155
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-325",
+    "Score": 0.639995158
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-520c",
+    "Score": 0.639446735
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-146a",
+    "Score": 0.638832271
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-28",
+    "Score": 0.637357533
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1288",
+    "Score": 0.637253165
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1538",
+    "Score": 0.63478452
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-518d",
+    "Score": 0.63478446
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-320b",
+    "Score": 0.632402241
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-3127",
+    "Score": 0.631921828
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-760",
+    "Score": 0.631113291
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1228",
+    "Score": 0.630991817
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-664b",
+    "Score": 0.630114436
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-3658",
+    "Score": 0.628950119
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-3074",
+    "Score": 0.626837373
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4268",
+    "Score": 0.626135111
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-3182",
+    "Score": 0.62599647
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1303",
+    "Score": 0.625385225
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-598",
+    "Score": 0.62447387
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1323",
+    "Score": 0.62446326
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-3664",
+    "Score": 0.624216914
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-218-1",
+    "Score": 0.624192357
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-124",
+    "Score": 0.623917758
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-377",
+    "Score": 0.623045862
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4257",
+    "Score": 0.622588754
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-520g",
+    "Score": 0.621463418
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-3620",
+    "Score": 0.620966315
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-24",
+    "Score": 0.620768726
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-383",
+    "Score": 0.620752394
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-548d",
+    "Score": 0.618337929
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1324",
+    "Score": 0.617930532
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-130b",
+    "Score": 0.617866933
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-543",
+    "Score": 0.617770433
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1245b",
+    "Score": 0.61735636
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4281",
+    "Score": 0.616132617
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-let-7f-2",
+    "Score": 0.615345061
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-519d",
+    "Score": 0.614640176
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-378e",
+    "Score": 0.613960683
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-718",
+    "Score": 0.612311065
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1248",
+    "Score": 0.612173676
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-765",
+    "Score": 0.609699428
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1304",
+    "Score": 0.60805285
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-519e",
+    "Score": 0.607223809
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-639",
+    "Score": 0.606394649
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4736",
+    "Score": 0.605308235
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-29b",
+    "Score": 0.605303705
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-616",
+    "Score": 0.604865909
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-26a",
+    "Score": 0.603764355
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1225",
+    "Score": 0.601458728
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1976",
+    "Score": 0.600552738
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1273c",
+    "Score": 0.600520432
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-585",
+    "Score": 0.599458516
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-570",
+    "Score": 0.598810673
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-3185",
+    "Score": 0.597295702
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-498",
+    "Score": 0.596064746
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-548f",
+    "Score": 0.593337238
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-147b",
+    "Score": 0.592818379
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-532",
+    "Score": 0.59276247
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-193b",
+    "Score": 0.592391908
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-7107",
+    "Score": 0.591662586
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-18a",
+    "Score": 0.590173602
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-432",
+    "Score": 0.588940203
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-378a",
+    "Score": 0.588551283
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-302a",
+    "Score": 0.587551951
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4284",
+    "Score": 0.587469876
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1202",
+    "Score": 0.586613894
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-520h",
+    "Score": 0.586502492
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1281",
+    "Score": 0.585705876
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-5582",
+    "Score": 0.584744513
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-3158",
+    "Score": 0.582604945
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-5586",
+    "Score": 0.582363427
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1271",
+    "Score": 0.58063817
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-6069",
+    "Score": 0.580303967
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4478",
+    "Score": 0.580116272
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-374a",
+    "Score": 0.580009639
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-525",
+    "Score": 0.579216003
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1246",
+    "Score": 0.57884264
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-125b-2",
+    "Score": 0.57850796
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-196b",
+    "Score": 0.576357722
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-204",
+    "Score": 0.576357722
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-let-7e",
+    "Score": 0.576357722
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-449b",
+    "Score": 0.574902534
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-3662",
+    "Score": 0.574902475
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4717",
+    "Score": 0.574902475
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-206",
+    "Score": 0.574902475
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-501",
+    "Score": 0.574902475
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-330",
+    "Score": 0.574902475
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-129-2",
+    "Score": 0.574902475
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-557",
+    "Score": 0.574493766
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-105",
+    "Score": 0.572819769
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-450a-1",
+    "Score": 0.572691321
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-654",
+    "Score": 0.571268201
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-6861",
+    "Score": 0.571083605
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4697",
+    "Score": 0.571068406
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-200b",
+    "Score": 0.570168197
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-132",
+    "Score": 0.568765819
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-134",
+    "Score": 0.568029165
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-493",
+    "Score": 0.567252278
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-892b",
+    "Score": 0.566995263
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-let-7i",
+    "Score": 0.566285908
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-451a",
+    "Score": 0.566252351
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-662",
+    "Score": 0.566235304
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-589",
+    "Score": 0.566076458
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-454",
+    "Score": 0.566007614
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-3611",
+    "Score": 0.565577924
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1268a",
+    "Score": 0.564599574
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-92b",
+    "Score": 0.562148571
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1267",
+    "Score": 0.561851263
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1249",
+    "Score": 0.561240017
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-620",
+    "Score": 0.560417831
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-424",
+    "Score": 0.559630394
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4701",
+    "Score": 0.559625447
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1307",
+    "Score": 0.558949649
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-6886",
+    "Score": 0.55851841
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-142",
+    "Score": 0.557998478
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-6133",
+    "Score": 0.556998789
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4447",
+    "Score": 0.556406617
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-487b",
+    "Score": 0.556161761
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-937",
+    "Score": 0.553232908
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-33a",
+    "Score": 0.553034604
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4634",
+    "Score": 0.550274432
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-30a",
+    "Score": 0.5496521
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-558",
+    "Score": 0.547308803
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4469",
+    "Score": 0.546108603
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-892a",
+    "Score": 0.545929611
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-365b",
+    "Score": 0.543629706
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-645",
+    "Score": 0.543575525
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-877",
+    "Score": 0.542579412
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-92a-2",
+    "Score": 0.542414188
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-378i",
+    "Score": 0.5421381
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-6799",
+    "Score": 0.542013049
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-758",
+    "Score": 0.540700972
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-555",
+    "Score": 0.540039003
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-761",
+    "Score": 0.539381742
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-888",
+    "Score": 0.538495183
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1343",
+    "Score": 0.538244307
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-365a",
+    "Score": 0.53795284
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-3928",
+    "Score": 0.537528396
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4496",
+    "Score": 0.537379444
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-935",
+    "Score": 0.537272573
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-3945",
+    "Score": 0.535040855
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-660",
+    "Score": 0.535036862
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-29b-1",
+    "Score": 0.534763455
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-548t",
+    "Score": 0.533072948
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-409",
+    "Score": 0.532008886
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-766",
+    "Score": 0.53154546
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-337",
+    "Score": 0.531180382
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-630",
+    "Score": 0.530695677
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-3196",
+    "Score": 0.530278742
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-9500",
+    "Score": 0.529733002
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-2861",
+    "Score": 0.529570103
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-369",
+    "Score": 0.529290736
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-802",
+    "Score": 0.529079258
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-154",
+    "Score": 0.528405905
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-184",
+    "Score": 0.527098179
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-7",
+    "Score": 0.52699548
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-216a",
+    "Score": 0.526513994
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-3149",
+    "Score": 0.526125789
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-215",
+    "Score": 0.525967538
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-3976",
+    "Score": 0.52562958
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1277",
+    "Score": 0.525612235
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-7-1",
+    "Score": 0.525024533
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-544a",
+    "Score": 0.524794698
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-3201",
+    "Score": 0.523166597
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-15a",
+    "Score": 0.522872269
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-632",
+    "Score": 0.521749616
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-410",
+    "Score": 0.521732509
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-103b",
+    "Score": 0.521436214
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4466",
+    "Score": 0.521191239
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-221",
+    "Score": 0.520007491
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-3940",
+    "Score": 0.516837656
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-127",
+    "Score": 0.514398992
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1227",
+    "Score": 0.513595581
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-431",
+    "Score": 0.51357609
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-328",
+    "Score": 0.513319671
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-19b",
+    "Score": 0.51328212
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-3909",
+    "Score": 0.511852562
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-16-2",
+    "Score": 0.511823416
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1292",
+    "Score": 0.511444449
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-600",
+    "Score": 0.510329485
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-423",
+    "Score": 0.509702563
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4772",
+    "Score": 0.50942409
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-520b",
+    "Score": 0.508053303
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-520e",
+    "Score": 0.506675124
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-3908",
+    "Score": 0.504262328
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4721",
+    "Score": 0.501578748
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-571",
+    "Score": 0.500656724
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-518c",
+    "Score": 0.500363111
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-526b",
+    "Score": 0.500350535
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-129",
+    "Score": 0.499677002
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-381",
+    "Score": 0.498604625
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-542",
+    "Score": 0.497662067
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-656",
+    "Score": 0.496842951
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-320c",
+    "Score": 0.49549517
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-6780b",
+    "Score": 0.495309532
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-6836",
+    "Score": 0.494377553
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-126",
+    "Score": 0.494279534
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-921",
+    "Score": 0.49397254
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-769",
+    "Score": 0.490903467
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-596",
+    "Score": 0.490669817
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-370",
+    "Score": 0.488853455
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-643",
+    "Score": 0.485425204
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-218-2",
+    "Score": 0.48256731
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-3162",
+    "Score": 0.479341835
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-938",
+    "Score": 0.478484362
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-664a",
+    "Score": 0.478140026
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-450b",
+    "Score": 0.474890143
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-595",
+    "Score": 0.474064022
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4489",
+    "Score": 0.471942306
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-301b",
+    "Score": 0.470298678
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-6068",
+    "Score": 0.468490064
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-676",
+    "Score": 0.460653096
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-31",
+    "Score": 0.459962994
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-573",
+    "Score": 0.45910427
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-629",
+    "Score": 0.455750406
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-518b",
+    "Score": 0.455555171
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-181b",
+    "Score": 0.455437362
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-562",
+    "Score": 0.453599513
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1224",
+    "Score": 0.451867551
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-224",
+    "Score": 0.450470805
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-137",
+    "Score": 0.44398132
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1827",
+    "Score": 0.443439364
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-193a",
+    "Score": 0.442336917
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4775",
+    "Score": 0.439651728
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-196a",
+    "Score": 0.42899698
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-658",
+    "Score": 0.425409734
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-567",
+    "Score": 0.425292283
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-371a",
+    "Score": 0.423062056
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-621",
+    "Score": 0.422314405
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1236",
+    "Score": 0.416055709
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-149",
+    "Score": 0.415829062
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4282",
+    "Score": 0.415055484
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-602",
+    "Score": 0.411572576
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-101",
+    "Score": 0.408076167
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-3663",
+    "Score": 0.407267183
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1269a",
+    "Score": 0.405667514
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-323a",
+    "Score": 0.404375106
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-3126",
+    "Score": 0.40233776
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-548an",
+    "Score": 0.396950722
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-579",
+    "Score": 0.395439744
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-500a",
+    "Score": 0.393415004
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-522",
+    "Score": 0.387844294
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-606",
+    "Score": 0.386259019
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-569",
+    "Score": 0.382055372
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-551b",
+    "Score": 0.380600542
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-3120",
+    "Score": 0.375198334
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-223",
+    "Score": 0.36990425
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4487",
+    "Score": 0.364025295
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-29c",
+    "Score": 0.361718595
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-541",
+    "Score": 0.353841543
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-523",
+    "Score": 0.347814173
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-151b",
+    "Score": 0.34741658
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-376a",
+    "Score": 0.345508188
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-3176",
+    "Score": 0.342001289
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-let-7a-2",
+    "Score": 0.341979474
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-3177",
+    "Score": 0.338355422
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-135b",
+    "Score": 0.334769517
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-603",
+    "Score": 0.333790094
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-499a",
+    "Score": 0.327985346
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-512",
+    "Score": 0.326629162
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4293",
+    "Score": 0.315326959
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-511",
+    "Score": 0.315147102
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-668",
+    "Score": 0.313063771
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-3689d",
+    "Score": 0.313005656
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-578",
+    "Score": 0.31285584
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-298",
+    "Score": 0.31259048
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-527",
+    "Score": 0.310142338
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-663b",
+    "Score": 0.308094829
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-633",
+    "Score": 0.302215427
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-510",
+    "Score": 0.301087141
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-10b",
+    "Score": 0.297811598
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-197",
+    "Score": 0.296959072
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-641",
+    "Score": 0.293563992
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-412",
+    "Score": 0.290141553
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-17",
+    "Score": 0.29009372
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-26a-2",
+    "Score": 0.289074928
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-3171",
+    "Score": 0.287709594
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-631",
+    "Score": 0.285064906
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-548ac",
+    "Score": 0.283970803
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-3200",
+    "Score": 0.283702821
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-30c-1",
+    "Score": 0.282417178
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-3156",
+    "Score": 0.28206265
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-891a",
+    "Score": 0.281973898
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4672",
+    "Score": 0.27999115
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-9-3",
+    "Score": 0.279893965
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1825",
+    "Score": 0.279525906
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1178",
+    "Score": 0.279375672
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4270",
+    "Score": 0.279223889
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-628",
+    "Score": 0.279075295
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-300",
+    "Score": 0.278589427
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1180",
+    "Score": 0.277150154
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-885",
+    "Score": 0.276778489
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1231",
+    "Score": 0.276575625
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-96",
+    "Score": 0.276508123
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-613",
+    "Score": 0.27648738
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4262",
+    "Score": 0.273726672
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-518f",
+    "Score": 0.273586512
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4644",
+    "Score": 0.273412913
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-378f",
+    "Score": 0.271809578
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-626",
+    "Score": 0.268051147
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-574",
+    "Score": 0.267947286
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-550b-2",
+    "Score": 0.267346412
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-373",
+    "Score": 0.266600668
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-24-2",
+    "Score": 0.26614666
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-133a",
+    "Score": 0.265634537
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1972",
+    "Score": 0.263722926
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-3610",
+    "Score": 0.262700498
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-302d",
+    "Score": 0.259508401
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-138",
+    "Score": 0.25934428
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-143",
+    "Score": 0.258627057
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-339",
+    "Score": 0.257508874
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-3666",
+    "Score": 0.256195098
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1471",
+    "Score": 0.255987525
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-185",
+    "Score": 0.255704373
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-18b",
+    "Score": 0.255172193
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-922",
+    "Score": 0.252183557
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-670",
+    "Score": 0.248564333
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-384",
+    "Score": 0.247042209
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-659",
+    "Score": 0.246821091
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-509",
+    "Score": 0.245155931
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-519c",
+    "Score": 0.244881973
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-16-1",
+    "Score": 0.243504331
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-30e",
+    "Score": 0.242430493
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-7847",
+    "Score": 0.241534591
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1294",
+    "Score": 0.23899512
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-671",
+    "Score": 0.238271385
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-362",
+    "Score": 0.237765133
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-642a",
+    "Score": 0.23658587
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-942",
+    "Score": 0.236298397
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-486",
+    "Score": 0.235909462
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-216b",
+    "Score": 0.234972253
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-500b",
+    "Score": 0.232567549
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-544b",
+    "Score": 0.232043639
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1285",
+    "Score": 0.231004551
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-202",
+    "Score": 0.230619282
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1245a",
+    "Score": 0.229451567
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4488",
+    "Score": 0.229158804
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-21",
+    "Score": 0.228599533
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-218",
+    "Score": 0.228279829
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4518",
+    "Score": 0.227676243
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-3654",
+    "Score": 0.227164701
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4295",
+    "Score": 0.226232216
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-30b",
+    "Score": 0.225993425
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-539",
+    "Score": 0.225767568
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-485",
+    "Score": 0.225049093
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1276",
+    "Score": 0.223906487
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-382",
+    "Score": 0.223008797
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-636",
+    "Score": 0.221947849
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-3622b",
+    "Score": 0.22044678
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-655",
+    "Score": 0.21988681
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-551a",
+    "Score": 0.219504893
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1264",
+    "Score": 0.219003096
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-518a",
+    "Score": 0.218925178
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-495",
+    "Score": 0.217302591
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1260a",
+    "Score": 0.21660924
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-2110",
+    "Score": 0.216384917
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-378b",
+    "Score": 0.214924008
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-514a-3",
+    "Score": 0.212442085
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1915",
+    "Score": 0.211593091
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-107",
+    "Score": 0.210018784
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-380",
+    "Score": 0.209228128
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-568",
+    "Score": 0.207054183
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-136",
+    "Score": 0.205683187
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-587",
+    "Score": 0.205244571
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-205",
+    "Score": 0.203675106
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-3960",
+    "Score": 0.202400327
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-6826",
+    "Score": 0.20206663
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-762",
+    "Score": 0.201922983
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-597",
+    "Score": 0.201676175
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-521",
+    "Score": 0.201476246
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-487a",
+    "Score": 0.200370714
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-122",
+    "Score": 0.198960468
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4286",
+    "Score": 0.197623715
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-450a",
+    "Score": 0.197623715
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-649",
+    "Score": 0.195477992
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-875",
+    "Score": 0.195189402
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-627",
+    "Score": 0.193226472
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4723",
+    "Score": 0.193003327
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-548",
+    "Score": 0.191681117
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-124-3",
+    "Score": 0.191461504
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-3144",
+    "Score": 0.190509066
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-5193",
+    "Score": 0.188786149
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-514b",
+    "Score": 0.187579364
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4753",
+    "Score": 0.186771229
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-556",
+    "Score": 0.184490427
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1297",
+    "Score": 0.184340477
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-187",
+    "Score": 0.183281377
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-92a-1",
+    "Score": 0.182876199
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-29a",
+    "Score": 0.182413816
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-25",
+    "Score": 0.180752039
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-507",
+    "Score": 0.180523992
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-106a",
+    "Score": 0.180131078
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-422a",
+    "Score": 0.179755986
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4324",
+    "Score": 0.17967622
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-34a",
+    "Score": 0.179132938
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1238",
+    "Score": 0.177205995
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-455",
+    "Score": 0.176863015
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-516b",
+    "Score": 0.176792905
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-584",
+    "Score": 0.176236093
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-100",
+    "Score": 0.17601411
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-139",
+    "Score": 0.175741002
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-425",
+    "Score": 0.175708205
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-548a-3",
+    "Score": 0.175565675
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-516a",
+    "Score": 0.17367588
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-340",
+    "Score": 0.172632039
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-148a",
+    "Score": 0.172579914
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-611",
+    "Score": 0.172015116
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-519a",
+    "Score": 0.171895608
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1244",
+    "Score": 0.171473742
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-181b-2",
+    "Score": 0.171299428
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-634",
+    "Score": 0.17091237
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-138-2",
+    "Score": 0.17024307
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1291",
+    "Score": 0.169541389
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-874",
+    "Score": 0.168826193
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-3186",
+    "Score": 0.168765455
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1",
+    "Score": 0.168342814
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-582",
+    "Score": 0.167421281
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-188",
+    "Score": 0.166442126
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1183",
+    "Score": 0.166095242
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-517a",
+    "Score": 0.165094808
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-593",
+    "Score": 0.164459884
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-592",
+    "Score": 0.163922668
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1908",
+    "Score": 0.163782403
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-583",
+    "Score": 0.163747728
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-195",
+    "Score": 0.163747728
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-576",
+    "Score": 0.163747728
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1181",
+    "Score": 0.163747728
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-941",
+    "Score": 0.163747728
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-5100",
+    "Score": 0.163747728
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-302b",
+    "Score": 0.163747728
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-561",
+    "Score": 0.163747728
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-449a",
+    "Score": 0.163747728
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-345",
+    "Score": 0.163333386
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-346",
+    "Score": 0.162496433
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-6880",
+    "Score": 0.16198799
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-372",
+    "Score": 0.160781667
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-484",
+    "Score": 0.16032359
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-181d",
+    "Score": 0.159953058
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-181a",
+    "Score": 0.15967223
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-130a",
+    "Score": 0.159547865
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1296",
+    "Score": 0.158894688
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-19b-1",
+    "Score": 0.158626512
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-651",
+    "Score": 0.15854831
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-3148",
+    "Score": 0.158089072
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-93",
+    "Score": 0.158070073
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-144",
+    "Score": 0.157994106
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1233",
+    "Score": 0.15772
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4728",
+    "Score": 0.15772
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-619",
+    "Score": 0.15749985
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-3131",
+    "Score": 0.157320634
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-581",
+    "Score": 0.156222671
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-95",
+    "Score": 0.156222671
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-564",
+    "Score": 0.155681297
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-let-7c",
+    "Score": 0.155559838
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4449",
+    "Score": 0.155485183
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4298",
+    "Score": 0.154713333
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4467",
+    "Score": 0.153892651
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-23b",
+    "Score": 0.152138099
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-647",
+    "Score": 0.152138099
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-23c",
+    "Score": 0.151052758
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-let-7g",
+    "Score": 0.150987715
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4639",
+    "Score": 0.149698511
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-379",
+    "Score": 0.148866773
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-214",
+    "Score": 0.148754612
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-509-3",
+    "Score": 0.148180544
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-520d",
+    "Score": 0.147297278
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-873",
+    "Score": 0.146720201
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4513",
+    "Score": 0.146720201
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-624",
+    "Score": 0.145553887
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-329",
+    "Score": 0.145553887
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-675",
+    "Score": 0.145122081
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1182",
+    "Score": 0.14458482
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-3923",
+    "Score": 0.144175425
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4516",
+    "Score": 0.143109947
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-488",
+    "Score": 0.142663479
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-6875",
+    "Score": 0.142495468
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-451b",
+    "Score": 0.142245263
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1295b",
+    "Score": 0.139911875
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-34b",
+    "Score": 0.139897689
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-744",
+    "Score": 0.139842525
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-301a",
+    "Score": 0.139573231
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-7-2",
+    "Score": 0.138662577
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-519b",
+    "Score": 0.138662562
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4476",
+    "Score": 0.138662562
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-3614",
+    "Score": 0.138662562
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-20a",
+    "Score": 0.138662562
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-374b",
+    "Score": 0.138114616
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1261",
+    "Score": 0.13775219
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1469",
+    "Score": 0.136726499
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-622",
+    "Score": 0.135978669
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-let-7f",
+    "Score": 0.135569036
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-3151",
+    "Score": 0.134786129
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-222",
+    "Score": 0.133405775
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-378g",
+    "Score": 0.133405775
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1973",
+    "Score": 0.133405775
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-552",
+    "Score": 0.133405775
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-648",
+    "Score": 0.130823433
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-302f",
+    "Score": 0.129726589
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-452",
+    "Score": 0.129377693
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4521",
+    "Score": 0.12925826
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-433",
+    "Score": 0.127990842
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1258",
+    "Score": 0.127569586
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-466",
+    "Score": 0.127569586
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-27b",
+    "Score": 0.122810602
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-186",
+    "Score": 0.12281058
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-140",
+    "Score": 0.122369803
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-151a",
+    "Score": 0.121582426
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1305",
+    "Score": 0.121551134
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-591",
+    "Score": 0.120549969
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-575",
+    "Score": 0.120543189
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-376a-2",
+    "Score": 0.119947143
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-33b",
+    "Score": 0.119870618
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1270",
+    "Score": 0.118364617
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-550a",
+    "Score": 0.117784463
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-617",
+    "Score": 0.11524871
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1184",
+    "Score": 0.113000937
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-367",
+    "Score": 0.112631932
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-515",
+    "Score": 0.111363791
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4291",
+    "Score": 0.110885635
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-320e",
+    "Score": 0.110240772
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-3619",
+    "Score": 0.109348185
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-338",
+    "Score": 0.108910546
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-625",
+    "Score": 0.108784743
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4279",
+    "Score": 0.108290434
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1282",
+    "Score": 0.107902035
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-494",
+    "Score": 0.106302671
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-155",
+    "Score": 0.105974391
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-6720",
+    "Score": 0.105744138
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1290",
+    "Score": 0.105662651
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4687",
+    "Score": 0.105486453
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1206",
+    "Score": 0.104609884
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1226",
+    "Score": 0.101391219
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-6721",
+    "Score": 0.095697261
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4258",
+    "Score": 0.093034074
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-103a-2",
+    "Score": 0.092897348
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1914",
+    "Score": 0.092746235
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-3913",
+    "Score": 0.092673883
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1299",
+    "Score": 0.09251719
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-429",
+    "Score": 0.090954006
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-128",
+    "Score": 0.090649396
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-650",
+    "Score": 0.089451425
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-371b",
+    "Score": 0.084561221
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-5004",
+    "Score": 0.084368557
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-335",
+    "Score": 0.084001437
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-378c",
+    "Score": 0.083774127
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-526a",
+    "Score": 0.083129182
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-326",
+    "Score": 0.079999954
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-199b",
+    "Score": 0.071693644
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-194",
+    "Score": 0.068298951
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-211",
+    "Score": 0.065667674
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-15b",
+    "Score": 0.057492655
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1301",
+    "Score": 0.053682983
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-19b-2",
+    "Score": 0.05284645
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4778",
+    "Score": 0.049419373
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-1283",
+    "Score": 0.048634581
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-297",
+    "Score": 0.0480913
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-375",
+    "Score": 0.031943724
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-146b",
+    "Score": 0.030902676
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-153",
+    "Score": 0.030218352
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-let-7d",
+    "Score": 0.010289044
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-4446",
+    "Score": 0.006126856
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-646",
+    "Score": 0.004457291
+  },
+  {
+    "disease": "Breast Neoplasms",
+    "miRNA": "hsa-mir-125b-1",
+    "Score": 0.002478
+  }
+]
