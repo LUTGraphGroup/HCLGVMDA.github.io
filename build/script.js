@@ -11,6 +11,13 @@ fetch('build/data.json')
         console.error('Error loading JSON data:', error);
     });
 
+const exampleMetabolites = ["hsa-mir-31", "hsa-mir-215", "hsa-mir-3658", "hsa-mir-26a-1", "hsa-mir-3915"];
+
+function fillExample() {
+    const randomIndex = Math.floor(Math.random() * exampleMetabolites.length);
+    document.getElementById('miRNA').value = exampleMetabolites[randomIndex];
+}
+
 function queryDisease() {
     const miRNA = document.getElementById('miRNA').value.trim().toLowerCase();
     const modalResultsDiv = document.getElementById('modal-results');
